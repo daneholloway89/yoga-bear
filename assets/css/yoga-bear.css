@@ -1,0 +1,30 @@
+.nav {
+  margin-top: 5px;
+  min-height: max-content;
+  margin-bottom: 10px;
+}
+
+a:link {
+  color: black !important;
+  text-decoration-color: none !important;
+
+}
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.nav h1 {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Pacifico', cursive;
+  color: black;
+  font-size: 50px;
+}
+
+#car-container {
+  width: 70vw;
+  max-height: 80px !important;
+  border-radius: 10px;
+}
